@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿//https://www.beecrowd.com.br/judge/pt/problems/view/1142
+using System;
 
 namespace desafiosURI
 {
@@ -10,15 +7,6 @@ namespace desafiosURI
     {
         static void Main(string[] args)
         {
-            /* Escreva um programa que leia um valor inteiro N. Este N é a quantidade de linhas de saída que serão apresentadas 
-               na execução do programa.
-
-               Entrada
-               O arquivo de entrada contém um número inteiro positivo N.
-            
-               Saída
-               Imprima a saída conforme o exemplo fornecido. */
-
             int N = int.Parse(Console.ReadLine());
             int contador = 1;
             int numeroSequencia = 1;
