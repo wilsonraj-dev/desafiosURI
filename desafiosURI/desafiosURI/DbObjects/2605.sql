@@ -1,3 +1,4 @@
+--https://www.beecrowd.com.br/judge/pt/problems/view/2605
 SELECT P.NAME, F.NAME FROM PRODUCTS AS P
 INNER JOIN PROVIDERS AS F ON
 P.ID_PROVIDERS = F.ID

@@ -1,4 +1,5 @@
-﻿using System;
+﻿//https://www.beecrowd.com.br/judge/pt/problems/view/1096
+using System;
 
 namespace desafiosURI.Codigos
 {
@@ -6,14 +7,6 @@ namespace desafiosURI.Codigos
     {
         static void Main(string[] args)
         {
-            /* Você deve fazer um programa que apresente a sequencia conforme o exemplo abaixo.
-                
-            Entrada
-            Não há nenhuma entrada neste problema.
-               
-            Saída
-            Imprima a sequencia conforme exemplo abaixo */
-            
             int i = 1;
             while (i <= 9)
             {

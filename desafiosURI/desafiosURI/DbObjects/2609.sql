@@ -1,3 +1,4 @@
+--https://www.beecrowd.com.br/judge/pt/problems/view/2609
 SELECT C.NAME, SUM(P.AMOUNT)
 FROM CATEGORIES C  
 INNER JOIN PRODUCTS P
