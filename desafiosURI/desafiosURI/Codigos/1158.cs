@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿//https://www.beecrowd.com.br/judge/pt/problems/view/1158
+using System;
 
 namespace desafiosURI.Codigos
 {
