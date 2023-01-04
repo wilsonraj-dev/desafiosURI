@@ -13,7 +13,5 @@ public class Main {
 			System.out.println(senha-1);
 		}
 		sc.close();
- 
     }
- 
 }
