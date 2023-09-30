@@ -1,4 +1,5 @@
-﻿using System;
+﻿//https://www.beecrowd.com.br/judge/pt/problems/view/1960
+using System;
 
 namespace desafiosURI.Codigos
 {
