@@ -2,9 +2,8 @@
 using System;
 using System.Collections.Generic;
 
-class URI
+class _1257
 {
-
     static void Main(string[] args)
     {
         int N = int.Parse(Console.ReadLine());
