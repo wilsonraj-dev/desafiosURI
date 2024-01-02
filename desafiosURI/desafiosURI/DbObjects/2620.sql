@@ -1,0 +1,5 @@
+﻿SELECT P.NAME
+	 , O.ID 
+FROM customers AS P
+INNER JOIN ORDERS AS O ON P.ID = O.id_customers
+WHERE O.orders_date BETWEEN '2016-01-01' AND '2016-06-30'
